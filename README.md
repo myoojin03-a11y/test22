@@ -1,6 +1,11 @@
 # 쿠팡 스타일 고객상담기록관리시스템 (CRM Lite)
 
-![MainVisual]()
+![MainVisual](https://github.com/user-attachments/assets/a6907964-a173-4b54-8dd8-9c9ea5be874c)
+### Before & After
+
+| Before | After |
+| ------ | ----- |
+| 비포이미지 | 애프터이미지 |
 ## Link
 - 바로가기 (Web-site): http://abc.co.kr
 - 기획서 (Figma-slide): http://abc.co.kr
